@@ -9,4 +9,10 @@ To improve the model, additional parameters that reflect how each WR's receiving
 
 Further improvements of the model are dependent on the gathering of more data, particularly a quantitative representation of injury history and whether a player is playing through a certain injury that may have limited his production. A larger dataset beyond going beyond 2018 containing advanced metrics such as ADOT may help in identifying better parameters that more strongly correlate to next year's receiving yards
 
-ReceivingData folder contains the yearly wide receiver statistics as well as the passing offense statistics (cleaned). DataCleaner.ipynb is a script to remove any unwanted columns within the data files. Stats.csv contains a cleaned-up and concatenated version of all the data files. MLPredictor.ipynb contains the model and its predictive results. 
+ReceivingData folder  - contains the yearly wide receiver statistics as well as the passing offense statistics (cleaned)
+
+DataCleaner.ipynb - a script to remove any unwanted columns within the data files 
+
+Stats.csv - contains a cleaned-up and concatenated version of all the data files. 
+
+MLPredictor.ipynb - contains the model and its predictive results. 
